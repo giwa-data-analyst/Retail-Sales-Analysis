@@ -77,3 +77,7 @@ The project uses retail transactional datasets consisting of:
 - Regional Data
 - Transaction Dates
 
+## 6. Data Modeling & SQL Workflow
+
+
+
