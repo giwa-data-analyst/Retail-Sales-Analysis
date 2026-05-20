@@ -1,0 +1,5 @@
+-- PREVIEW RETAIL SALES VIEW
+
+SELECT *
+FROM retail_sales_view
+LIMIT 10;
