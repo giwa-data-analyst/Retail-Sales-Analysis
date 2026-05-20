@@ -46,9 +46,34 @@ The main objectives of this project are:
 
 ### Tool	         -         Purpose
 
-PostgreSQL     -         Data storage and SQL analysis
-SQL	           -         Data querying and business analysis
-Power BI	     -         Dashboard creation and visualization
-DAX	           -         KPI calculations and custom measures
-GitHub	       -         Project documentation and portfolio hosting
+PostgreSQL     -             Data storage and SQL analysis
+
+SQL	           -             Data querying and business analysis
+
+Power BI	     -             Dashboard creation and visualization
+
+DAX	           -             KPI calculations and custom measures
+
+GitHub	       -             Project documentation and portfolio hosting
+
+## 5. Dataset Information
+
+The project uses retail transactional datasets consisting of:
+
+- Customers Dataset
+- Products Dataset
+- Stores Dataset
+- Transactions Dataset
+
+## Key Data Fields
+
+- Customer Information
+- Product Categories
+- Sales Revenue
+- Profit
+- Quantity Sold
+- Discounts
+- Payment Methods
+- Regional Data
+- Transaction Dates
 
