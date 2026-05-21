@@ -173,15 +173,15 @@ This dashboard helps stakeholders evaluate operational performance, identify hig
 
 **Business Insights & Findings**
 
-Regional analysis revealed that the East region generated the highest revenue at approximately 5.6M and also recorded the highest profit contribution of about 1.5M, significantly outperforming other regions.
+Regional analysis revealed that the East region generated the highest revenue at approximately **5.6M** and also recorded the highest profit contribution of about **1.5M**, significantly outperforming other regions.
 
 Monthly regional sales trends remained relatively stable throughout the year, although slight fluctuations were observed across regions during mid-year periods.
 
-Store performance analysis showed that top-performing stores consistently generated approximately 2.9M in revenue, highlighting strong operational consistency across leading retail branches.
+Store performance analysis showed that top-performing stores consistently generated approximately **2.9M** in revenue, highlighting strong operational consistency across leading retail branches.
 
-Transaction volume analysis revealed that the highest-performing stores processed over 1,000 transactions, indicating strong customer activity and efficient store operations.
+Transaction volume analysis revealed that the highest-performing stores processed over **1,000** transactions, indicating strong customer activity and efficient store operations.
 
-Profitability analysis identified the most profitable stores generating approximately 0.80M profit, demonstrating effective pricing strategies and operational efficiency at the store level.
+Profitability analysis identified the most profitable stores generating approximately **0.80M** profit, demonstrating effective pricing strategies and operational efficiency at the store level.
 
 **Business Recommendations**
 - Expand operational strategies used in the East region across lower-performing regions to improve overall business performance.
