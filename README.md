@@ -161,4 +161,26 @@ Product category analysis showed that Electronics generated the highest category
 - Maintain support for multiple payment channels since customer payment behavior is evenly distributed across available payment methods.
 - Introduce personalized loyalty programs and customer retention initiatives to improve repeat purchases among high-value customer segments.
 
-  
+ ## 9. Store & Regional Performance Dashboard
+### Dashboard Preview
+
+![Store & Regional Performance Dashboard](Dashboard%20Screenshot/Store%20&%20Regional%20Performance.png)
+
+**Store & Regional Performance Overview**
+
+The Store & Regional Performance Dashboard focuses on regional sales trends, store profitability, transaction performance, and revenue contribution across different retail locations.
+This dashboard helps stakeholders evaluate operational performance, identify high-performing regions, and monitor store-level efficiency for strategic expansion and resource allocation.
+
+**Business Insights & Findings**
+
+Regional analysis revealed that the East region generated the highest revenue at approximately 5.6M and also recorded the highest profit contribution of about 1.5M, significantly outperforming other regions.
+
+Monthly regional sales trends remained relatively stable throughout the year, although slight fluctuations were observed across regions during mid-year periods.
+
+Store performance analysis showed that top-performing stores consistently generated approximately 2.9M in revenue, highlighting strong operational consistency across leading retail branches.
+
+Transaction volume analysis revealed that the highest-performing stores processed over 1,000 transactions, indicating strong customer activity and efficient store operations.
+
+Profitability analysis identified the most profitable stores generating approximately 0.80M profit, demonstrating effective pricing strategies and operational efficiency at the store level.
+
+
