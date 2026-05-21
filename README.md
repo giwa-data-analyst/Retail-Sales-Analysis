@@ -81,7 +81,7 @@ The project uses retail transactional datasets consisting of:
 
 A SQL view named: "retail_sales_view" A centralized SQL analytical view was created by joining the transactions, customers, products, and stores tables to simplify KPI generation and dashboard reporting.
 
-## Key SQL Analyses Performed
+### Key SQL Analyses Performed
 
 - Executive KPI Analysis
 - Product Performance Analysis
