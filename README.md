@@ -101,11 +101,11 @@ The Executive Overview Dashboard provides a high-level summary of overall busine
 
 The dashboard enables stakeholders to quickly monitor business KPIs and identify areas requiring operational attention.
 
-**Key Performance Indicators (KPIs)**
+**Executive KPI Summary (KPIs)**
 
 The retail business achieved a total revenue of **14.30M** and generated **3.83M** in total profit, resulting in a healthy **26.75%** profit margin. A total of **15K** products were sold across **5K** transactions, while the business maintained an average order value of approximately **2.86K** per transaction, indicating strong customer purchasing activity and consistent sales performance.
 
-**Executive Dashboard Insight Stories**
+**Business Insights & Findings**
 
 The business generated a total revenue of **14.30M** and a total profit of **3.83M**, resulting in a strong **26.75%** profit margin, which indicates healthy operational efficiency and effective pricing strategies across the retail business.
 
@@ -119,4 +119,10 @@ Product category analysis identified Electronics as the highest revenue-generati
 
 Customer segmentation analysis further revealed that the highest-spending customer generated approximately **0.14M** revenue, highlighting the importance of loyal high-value customers in overall business profitability and long-term revenue sustainability.
 
+### Business Recommendations
 
+- Increase marketing focus on Electronics and Fashion categories since they generate the highest revenue.
+- Develop customer retention strategies targeting high-value female customers.
+- Investigate revenue declines observed in February and August to reduce seasonal sales fluctuations.
+- Replicate operational strategies used by top-performing stores across lower-performing branches.
+- Expand loyalty programs to encourage repeat purchases from top-spending customers.
