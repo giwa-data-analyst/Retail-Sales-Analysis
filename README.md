@@ -223,4 +223,12 @@ Regional order value analysis revealed relatively balanced customer spending acr
 - Monitor monthly profit fluctuations regularly to improve sales forecasting and operational planning.
 - Introduce targeted regional marketing campaigns to further improve customer spending and transaction growth across all regions.
 
+## Author
+
+Giwa Aaron Babatunde  
+Data Analyst | Business Intelligence Analyst  
+
+Skilled in SQL, PostgreSQL, Power BI, Data Visualization, Dashboard Development, and Business Intelligence Reporting.
+
+
 
