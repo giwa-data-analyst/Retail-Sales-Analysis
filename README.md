@@ -126,3 +126,8 @@ Customer segmentation analysis further revealed that the highest-spending custom
 - Investigate revenue declines observed in February and August to reduce seasonal sales fluctuations.
 - Replicate operational strategies used by top-performing stores across lower-performing branches.
 - Expand loyalty programs to encourage repeat purchases from top-spending customers.
+
+## 8. Customer & Product Insights Dashboard
+### Dashboard Preview
+
+![Executive Dashboard](Dashboard%20Screenshot/Executive%20Dashboard.png)
