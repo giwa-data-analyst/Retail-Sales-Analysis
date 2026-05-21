@@ -183,4 +183,9 @@ Transaction volume analysis revealed that the highest-performing stores processe
 
 Profitability analysis identified the most profitable stores generating approximately 0.80M profit, demonstrating effective pricing strategies and operational efficiency at the store level.
 
-
+**Business Recommendations**
+- Expand operational strategies used in the East region across lower-performing regions to improve overall business performance.
+- Increase marketing and customer engagement initiatives in weaker regions to drive sales growth.
+- Investigate operational practices of top-performing stores to replicate success across underperforming branches.
+- Monitor regional sales fluctuations regularly to identify seasonal trends and optimize inventory planning.
+- Improve customer retention strategies in lower-transaction stores to increase transaction frequency and store profitability.
