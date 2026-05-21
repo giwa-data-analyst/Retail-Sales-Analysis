@@ -189,3 +189,38 @@ Profitability analysis identified the most profitable stores generating approxim
 - Investigate operational practices of top-performing stores to replicate success across underperforming branches.
 - Monitor regional sales fluctuations regularly to identify seasonal trends and optimize inventory planning.
 - Improve customer retention strategies in lower-transaction stores to increase transaction frequency and store profitability.
+
+## 10. Advanced Sales Insights Dashboard
+### Dashboard Preview
+
+![Advanced Sales Insights Dashboard](Dashboard%20Screenshot/Advanced%20Sales%20Insights.png)
+
+**Advanced Sales Insights Overview**
+
+The Advanced Sales Insights Dashboard focuses on discount impact analysis, payment behavior, monthly profit trends, product category performance, and regional order value analysis.
+
+This dashboard helps stakeholders evaluate pricing effectiveness, profitability drivers, customer payment preferences, and overall sales efficiency across the retail business.
+
+**Business Insights & Findings**
+
+Discount analysis revealed that transactions with no discount achieved the highest profit margin at approximately **32.18%**, while Medium Discount transactions generated the lowest profit margin at approximately **20.55%**. This indicates that excessive discounting significantly reduces business profitability.
+
+Revenue impact analysis showed that Low Discount transactions generated the highest revenue contribution at approximately **7.0M**, suggesting that moderate discount strategies effectively balance customer attraction and profitability.
+
+Payment method distribution remained balanced across all transaction channels, with each payment method contributing between **23%** and **26%** of total transactions, demonstrating diversified customer payment preferences.
+
+Monthly profit trends remained relatively stable throughout the year, although slight fluctuations were observed during mid-year periods, indicating changing customer purchasing behavior and seasonal demand patterns.
+
+Product category analysis showed that Fashion recorded the highest quantity sold at approximately **7K** units, followed by Electronics with about **5.4K** units sold, while Groceries generated significantly lower sales volume.
+
+Regional order value analysis revealed relatively balanced customer spending across all regions, with average order values ranging between **2.8K** and **2.9K** per transaction.
+
+**Business Recommendations**
+- Reduce excessive discount campaigns since higher discount levels significantly lower profit margins.
+- Focus promotional strategies around low-discount offers to maintain strong revenue generation while protecting profitability.
+- Continue supporting multiple payment channels to maintain customer convenience and transaction flexibility.
+- Increase inventory planning for high-demand product categories such as Fashion and Electronics.
+- Monitor monthly profit fluctuations regularly to improve sales forecasting and operational planning.
+- Introduce targeted regional marketing campaigns to further improve customer spending and transaction growth across all regions.
+
+
