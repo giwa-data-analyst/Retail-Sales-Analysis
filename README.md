@@ -140,22 +140,22 @@ This dashboard helps stakeholders identify high-value customer segments, top-per
 
 **Business Insights & Findings**
 
-Customer age group analysis revealed that customers aged 55+ generated the highest revenue contribution of approximately 4.8M and also produced the highest profit contribution of about 1.3M. This indicates that older customer segments represent the most valuable purchasing group within the retail business.
+Customer age group analysis revealed that customers aged 55+ generated the highest revenue contribution of approximately **4.8M** and also produced the highest profit contribution of about **1.3M**. This indicates that older customer segments represent the most valuable purchasing group within the retail business.
 
-Customers aged 18–24 generated the lowest revenue and profit contribution, suggesting lower purchasing power or reduced transaction frequency among younger customer segments.
+Customers aged **18–24** generated the lowest revenue and profit contribution, suggesting lower purchasing power or reduced transaction frequency among younger customer segments.
 
-Payment method distribution remained relatively balanced across all payment channels, with Cash accounting for approximately 25.68% of total transactions, followed closely by Credit Card (25.62%), Mobile Money (25.52%), and Bank Transfer (23.18%). This indicates diversified customer payment behavior and strong flexibility across transaction methods.
+Payment method distribution remained relatively balanced across all payment channels, with Cash accounting for approximately **25.68%** of total transactions, followed closely by Credit Card **(25.62%)**, Mobile Money **(25.52%)**, and Bank Transfer **(23.18%)**. This indicates diversified customer payment behavior and strong flexibility across transaction methods.
 
-Product performance analysis identified Book Television as the highest revenue-generating product with approximately 0.61M revenue, while top-performing products consistently generated strong sales contributions across multiple categories.
+Product performance analysis identified Book Television as the highest revenue-generating product with approximately **0.61M** revenue, while top-performing products consistently generated strong sales contributions across multiple categories.
 
-Profitability analysis revealed that the most profitable products generated approximately 0.24M profit, demonstrating strong product-level margins and effective pricing strategies.
+Profitability analysis revealed that the most profitable products generated approximately **0.24M** profit, demonstrating strong product-level margins and effective pricing strategies.
 
-Product category analysis showed that Electronics generated the highest category revenue at approximately 6.3M, closely followed by Fashion at 6.2M, while Groceries generated significantly lower sales at approximately 1.8M revenue. This suggests that Electronics and Fashion remain the primary revenue-driving product categories for the business.
+Product category analysis showed that Electronics generated the highest category revenue at approximately **6.3M**, closely followed by Fashion at **6.2M**, while Groceries generated significantly lower sales at approximately **1.8M** revenue. This suggests that Electronics and Fashion remain the primary revenue-driving product categories for the business.
 
 **Business Recommendations**
 
 - Increase marketing investments toward customers aged 55+ since they represent the highest revenue-generating customer segment.
-- Develop targeted promotional campaigns for younger customers aged 18–24 to improve customer engagement and transaction volume.
+- Develop targeted promotional campaigns for younger customers aged **18–24** to improve customer engagement and transaction volume.
 - Expand inventory and promotional strategies around Electronics and Fashion products due to their strong revenue performance.
 - Analyze pricing and profitability strategies used by top-performing products to replicate success across lower-performing products.
 - Maintain support for multiple payment channels since customer payment behavior is evenly distributed across available payment methods.
