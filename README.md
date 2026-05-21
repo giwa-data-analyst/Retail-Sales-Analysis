@@ -101,11 +101,11 @@ The Executive Overview Dashboard provides a high-level summary of overall busine
 
 The dashboard enables stakeholders to quickly monitor business KPIs and identify areas requiring operational attention.
 
-### Key Performance Indicators (KPIs)
+**Key Performance Indicators (KPIs)**
 
 The retail business achieved a total revenue of **14.30M** and generated **3.83M** in total profit, resulting in a healthy **26.75%** profit margin. A total of **15K** products were sold across **5K** transactions, while the business maintained an average order value of approximately **2.86K** per transaction, indicating strong customer purchasing activity and consistent sales performance.
 
-### Executive Dashboard Insight Stories
+**Executive Dashboard Insight Stories**
 
 The business generated a total revenue of **14.30M** and a total profit of **3.83M**, resulting in a strong **26.75%** profit margin, which indicates healthy operational efficiency and effective pricing strategies across the retail business.
 
