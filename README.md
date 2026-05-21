@@ -230,5 +230,9 @@ Data Analyst | Business Intelligence Analyst
 
 Skilled in SQL, PostgreSQL, Power BI, Data Visualization, Dashboard Development, and Business Intelligence Reporting.
 
+### Connect With Me
 
+- LinkedIn: www.linkedin.com/in/giwa-data-analyst
+- GitHub: https://github.com/giwa-data-analyst
+- Email: withaaronbabatunde@gmail.com
 
