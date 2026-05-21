@@ -138,6 +138,7 @@ The Customer & Product Insights Dashboard focuses on customer purchasing behavio
 This dashboard helps stakeholders identify high-value customer segments, top-performing products, profitable product categories, and customer purchasing patterns to support strategic business decisions and revenue optimization.
 
 **Business Insights & Findings**
+
 Customer age group analysis revealed that customers aged 55+ generated the highest revenue contribution of approximately 4.8M and also produced the highest profit contribution of about 1.3M. This indicates that older customer segments represent the most valuable purchasing group within the retail business.
 
 Customers aged 18–24 generated the lowest revenue and profit contribution, suggesting lower purchasing power or reduced transaction frequency among younger customer segments.
@@ -151,6 +152,7 @@ Profitability analysis revealed that the most profitable products generated appr
 Product category analysis showed that Electronics generated the highest category revenue at approximately 6.3M, closely followed by Fashion at 6.2M, while Groceries generated significantly lower sales at approximately 1.8M revenue. This suggests that Electronics and Fashion remain the primary revenue-driving product categories for the business.
 
 **Business Recommendations**
+
 - Increase marketing investments toward customers aged 55+ since they represent the highest revenue-generating customer segment.
 - Develop targeted promotional campaigns for younger customers aged 18–24 to improve customer engagement and transaction volume.
 - Expand inventory and promotional strategies around Electronics and Fashion products due to their strong revenue performance.
