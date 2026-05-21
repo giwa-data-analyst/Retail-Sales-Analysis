@@ -133,6 +133,7 @@ Customer segmentation analysis further revealed that the highest-spending custom
 ![Customer & Product Insights Dashboard](Dashboard%20Screenshot/Customer%20&%20Product%20Insights.png)
 
 **Customer & Product Insights Overview**
+
 The Customer & Product Insights Dashboard focuses on customer purchasing behavior, product profitability, customer age segmentation, payment preferences, and category-level revenue performance.
 
 This dashboard helps stakeholders identify high-value customer segments, top-performing products, profitable product categories, and customer purchasing patterns to support strategic business decisions and revenue optimization.
