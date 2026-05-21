@@ -91,5 +91,8 @@ A SQL view named: "retail_sales_view" A centralized SQL analytical view was crea
 - Monthly Sales Trend Analysis
 - Customer Segmentation Analysis
 
+## 7. Executive Overview Dashboard
+### Dashboard Preview
+![Executive Dashboard](DashboardScreenshot/Executive%20Dashboard.png)
 
 
