@@ -93,6 +93,6 @@ A SQL view named: "retail_sales_view" A centralized SQL analytical view was crea
 
 ## 7. Executive Overview Dashboard
 ### Dashboard Preview
-![Executive Dashboard](Dashboard Screenshot/Executive Dashboard.png)
+![Executive Dashboard](Dashboard%20Screenshot/Executive%20Dashboard.png)
 
 
